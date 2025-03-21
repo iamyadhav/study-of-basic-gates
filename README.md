@@ -1,7 +1,7 @@
+### study-of-basic-gates
+
 ### NAME: Yadhav.G P
 ### REGISTER NUMBER: 212223230247
-
-### study-of-basic-gates
 
 **AIM:** 
 
