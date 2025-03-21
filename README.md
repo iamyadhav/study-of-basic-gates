@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### EXP-01 Study-of-basic-gates
 
 ### NAME: Yadhav.G P
 ### REGISTER NUMBER: 212223230247
