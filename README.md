@@ -1,3 +1,6 @@
+### NAME: Yadhav.G P
+### REGISTER NUMBER: 212223230247
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -66,14 +69,24 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
+![Screenshot 2025-03-19 112112](https://github.com/user-attachments/assets/7301077f-56e5-457d-a715-276a349d252f)
+
 **Logic symbol & Truthtable**
+
+
+![WhatsApp Image 2024-10-28 at 13 49 45](https://github.com/user-attachments/assets/57c8e27a-9898-4eaa-98b7-691fae9bc9cd)
+
 
 **RTL realization Output:** 
 
-**RTL**
+![Screenshot 2025-03-19 113047](https://github.com/user-attachments/assets/23992bd2-24cb-4365-bea4-18422c5a89dd)
 
-**Result:**
+
+**TIMING WAVEFORM**
+
+![Screenshot 2025-03-19 114244](https://github.com/user-attachments/assets/53f784db-d1c8-49f1-9a07-d310af1e0851)
+
+
+**Result:**Thus the basic logic gates are studied and their truth tables are verified.
 
 
